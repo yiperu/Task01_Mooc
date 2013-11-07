@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.apps4s.task01_mooc.DetalleActivity"
+            android:label="@string/title_activity_detalle" >
+        </activity>
+        <activity
+            android:name="com.apps4s.task01_mooc.FotosActivity"
+            android:label="@string/title_activity_fotos" >
+        </activity>
     </application>
 
 </manifest>
