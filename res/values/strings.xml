@@ -4,7 +4,19 @@
     <string name="app_name">Task01_Mooc</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="hello_world2">Donde se mostraran Datos</string>
     <string name="title_activity_detalle">DetalleActivity</string>
     <string name="title_activity_fotos">FotosActivity</string>
 
+    <string-array name="tiendas">
+        <item >Tienda de Legos</item>
+        <item >Tienda de Libros</item>
+        <item >Tienda de Zapatos</item>
+        <item >Tienda de Ropa</item>
+        <item >Tienda de Vinos</item>
+        <item >Tienda de Accesorios</item>
+        <item >Tienda de Gadges</item>
+        <item >Tienda de Celulares</item>
+        <item >Tienda de Cuadernos</item>
+    </string-array>
 </resources>
